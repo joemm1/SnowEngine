@@ -46,10 +46,34 @@
 		1EF5EA7122A57FC30029B119 /* SnowEngine */ = {
 			isa = PBXGroup;
 			children = (
+				1EF5EAA722A668A80029B119 /* Metal */,
+				1EF5EAA622A668A10029B119 /* macOS */,
+				1EF5EAA522A668890029B119 /* iOS */,
 				1EF5EA7222A57FC30029B119 /* SnowEngine.h */,
 				1EF5EA7322A57FC30029B119 /* Info.plist */,
 			);
 			path = SnowEngine;
+			sourceTree = "<group>";
+		};
+		1EF5EAA522A668890029B119 /* iOS */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = iOS;
+			sourceTree = "<group>";
+		};
+		1EF5EAA622A668A10029B119 /* macOS */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = macOS;
+			sourceTree = "<group>";
+		};
+		1EF5EAA722A668A80029B119 /* Metal */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = Metal;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
